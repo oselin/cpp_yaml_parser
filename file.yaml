@@ -1,0 +1,5 @@
+---
+# Params
+param1: 3
+param2: word
+param3: elem1,elem2,elem3
