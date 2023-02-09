@@ -5,6 +5,11 @@ YamlReader::YamlReader(){
     // Not really needed
 }
 
+YamlReader::YamlReader(std::string filename){
+
+    this->read(filename, "read");
+}
+
 
 YamlReader::~YamlReader(){
     yaml_file.close();

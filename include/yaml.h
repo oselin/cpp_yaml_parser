@@ -13,6 +13,7 @@ class YamlReader{
 
     public:
         YamlReader();
+        YamlReader(std::string filename);
         ~YamlReader();
 
     void read(std::string filename, std::string mode="read");
