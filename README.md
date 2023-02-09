@@ -7,10 +7,10 @@ To include the library in your project, simply include it
 ```
 
 
-To compile the example
+A simple example is included in the repo. To compile it
 
 ```console
-g++ main.cpp src/yaml.cpp -o out
+g++ example.cpp src/yaml.cpp -o out
 ```
 
 To run it, simply type
