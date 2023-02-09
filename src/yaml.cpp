@@ -1,4 +1,4 @@
-#include "./include/yaml.h"
+#include "../include/yaml.h"
 
 
 YamlReader::YamlReader(){
