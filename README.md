@@ -9,11 +9,11 @@ To include the library in your project, simply include it
 
 A simple example is included in the repo. To compile it
 
-```console
+```bash
 g++ example.cpp src/yaml.cpp -o out
 ```
 
 To run it, simply type
-```console
+```bash
 ./out
 ```
